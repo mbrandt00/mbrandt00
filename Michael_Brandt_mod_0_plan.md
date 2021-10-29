@@ -19,9 +19,11 @@
 ### 4. Remember that Success is non-linear and embrace failure!
 ![Success is non linear](https://partners4prosperity.com//wp-content/uploads/2015/08/success-what-it-really-looks-like-1024x628.jpg "Success is non linear")
 
+### 5.  I will also create beautiful code snippers in my notes, following proper convention during my backend program as below. 
  ```ruby
 puts "This is a code block in ruby!"
  ```
-This above code snippet uses the ruby `puts` command. 
+- I will also explain what I did to make it clear to everyone. 
+  - This above code snippet uses the ruby `puts` command. `puts` simply prints text. 
 
 
