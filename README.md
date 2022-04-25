@@ -6,6 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrandt00)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Coding this week
 <!--START_SECTION:waka-->
 
 ```text
