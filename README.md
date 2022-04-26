@@ -21,7 +21,7 @@ ERB          3 hrs 39 mins   ███▒░░░░░░░░░░░░░
 YAML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
-</h3>
+
 <!--END_SECTION:waka-->
 
 ### A little joke for you!
