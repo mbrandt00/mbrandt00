@@ -16,9 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML           8 hrs 55 mins   ████████████░░░░░░░░░░░░░   48.16 %
-CoffeeScript   5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.65 %
-Other          1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+HTML           7 hrs 2 mins    ████████████░░░░░░░░░░░░░   48.16 %
+CoffeeScript   3 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Other          2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
 ```
 
 <!--END_SECTION:waka-->
