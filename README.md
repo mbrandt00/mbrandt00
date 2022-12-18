@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-ERB          1 hr 34 mins    ██████████████████▒░░░░░░   72.72 %
-Ruby         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
