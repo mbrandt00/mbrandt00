@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL           13 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.97 %
-Svelte        4 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-TypeScript    4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-GraphQL       2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-JavaScript    24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+SQL           10 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.18 %
+TypeScript    6 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+Svelte        4 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+GraphQL       2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+JavaScript    35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
