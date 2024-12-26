@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       2 hrs 16 mins   ███████████████▒░░░░░░░░░   61.80 %
-Ruby         55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-TypeScript   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-gitignore    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
