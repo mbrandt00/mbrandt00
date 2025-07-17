@@ -1,7 +1,7 @@
 <h1> Welcome to my GitHub! 👋 </h1>
 
 
-  I am a backend engineer who loves working on all kinds of new projects. My current passion project is creating a fully automated blinds/humidifer system based on a Rasberry Pi to keep my beloved piano in tune no matter changing weather conditions. When I am not practicing piano, you'll find me exploring Denver, playing tennis, watching movies, or listening to music (check out what I've been listening to recently on [Last.fm](https://www.last.fm/user/mballa000). I am a passionate, driven developer and would love to connect and chat with everyone!
+  I am a backend engineer who loves working on all kinds of new projects. My current passion project is creating a fully automated blinds/humidifer system based on a Rasberry Pi to keep my beloved piano in tune no matter changing weather conditions. When I am not practicing piano, you'll find me exploring Denver, playing tennis, watching movies, or listening to music. I am a passionate, driven developer and would love to connect and chat with everyone!
 
 <h3 align = "center"> 📫 Reach me with <a href = "https://calendly.com/msbrandt00/30min"> Calendly </a> and <a href="mailto:msbrandt00@gmail.com">Email</a> 
  </h3>
