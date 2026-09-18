@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 48 mins          ███████████████▒░░░░░░░░░   61.48 %
-Markdown     23 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-HTML         20 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Swift        13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-TypeScript   10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
